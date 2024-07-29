@@ -12,6 +12,8 @@ Welcome to the Healthcare Platform project, a modern web application designed to
 
 The Healthcare Platform aims to bridge the gap between patients and healthcare providers, offering a seamless and intuitive interface for managing appointments, accessing medical records, and ensuring timely communication through SMS notifications.
 
+For the Admin side use 111111 as the passcode
+
 👉 [Live Demo Here](https://healthcare-carepulse.vercel.app/) 🌐
 
 ## ⚙️ Tech Stack
