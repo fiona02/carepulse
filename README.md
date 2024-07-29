@@ -50,7 +50,7 @@ Contributions are welcome! Whether you find a bug, have a feature request, or wa
 
 ## 🚀 Made By
 
-This project was created with ❤️ by [Soumojit Banerjee](https://github.com/fiona02), with contributions from the open-source community. If you have any questions or suggestions, feel free to reach out!
+This project was created with ❤️ by [Micheele Fiona](https://github.com/fiona02), with contributions from the open-source community. If you have any questions or suggestions, feel free to reach out!
 
 ---
 
